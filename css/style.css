@@ -1,0 +1,28 @@
+.box1{
+	height: 50vh;
+	background:#795548;
+}
+.box3{
+	background: yellowgreen;
+	height: 45px;
+	border: 1px solid;
+}
+.box4{
+	background: grey;
+	height: 45px;
+	border: 1px solid;
+}
+
+.container-fluid{
+	background: gold;
+	height: 45px;
+}
+
+
+.box2{
+	height: 50vh;
+	width: 50%;
+	float: left;
+	border: 1px solid black;
+	background:grey;
+}
